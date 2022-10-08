@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=28b25828_002D7d42_002D43a0_002D8427_002Dcf9b1f7d84b3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MutateString #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7724B241-AC5D-4CC0-9158-99800436457C::net7.0::UnsafePlayground.MutateString&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78d2c452_002Ddae6_002D4740_002Db452_002Daabbc69d8423/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MutateString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7724B241-AC5D-4CC0-9158-99800436457C::net7.0::UnsafePlayground.MutateString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7724B241-AC5D-4CC0-9158-99800436457C::net7.0::UnsafePlayground.MutateString2&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
